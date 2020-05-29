@@ -1,0 +1,9 @@
+﻿  Main.cpp
+E:\ChormeDownload\cs5150 AI\Assignment\PathFinding\PathFinding\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'json/json.h': No such file or directory
+  OpenJsonFile.cpp
+E:\ChormeDownload\cs5150 AI\Assignment\PathFinding\PathFinding\OpenJsonFile.cpp(1,10): fatal error C1083: Cannot open include file: 'json/json.h': No such file or directory
+  PathFinding.cpp
+E:\ChormeDownload\cs5150 AI\Assignment\PathFinding\PathFinding\PathFinding.cpp(1,10): fatal error C1083: Cannot open include file: 'json/json.h': No such file or directory
+  WriteJsonF.cpp
+E:\ChormeDownload\cs5150 AI\Assignment\PathFinding\PathFinding\WriteJsonF.cpp(1,10): fatal error C1083: Cannot open include file: 'json/json.h': No such file or directory
+  Generating Code...
